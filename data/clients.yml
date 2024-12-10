@@ -1,0 +1,4 @@
+enable        : true
+title         : "Who supports our activities"
+client_logos  : 
+  ["images/partners/unilu.png", "images/partners/fnr.png", "images/partners/liser.png", "images/partners/lcsb.png", "images/partners/list.png", "images/partners/lih.png"]
