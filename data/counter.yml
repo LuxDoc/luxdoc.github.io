@@ -1,0 +1,17 @@
+enable : true
+heading : "OUR ASSOCIATION IN NUMBERS"
+counter_item: 
+  - title: "Nationalities"
+    number: "110"
+
+  - title: "Total Members"
+    number: "350"
+  
+  - title: "2025 Events"
+    number: "15"
+
+  # - title: "Science Slams"
+  #   number: "9"
+
+  - title: "Active Since"
+    number: "2013"

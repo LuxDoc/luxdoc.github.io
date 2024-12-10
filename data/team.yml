@@ -1,0 +1,37 @@
+enable  : true
+title   : Team that makes the difference.
+members  :
+  - image       : images/team/klara_borrmann.jpeg
+    name        : KLARA BORMAN
+    designation : President
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/in/klara-florentine-borrmann-88025b193/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/lisa_hefele.jpeg
+    name        : LISA HEFELE
+    designation : Vice President
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/in/lisahefele/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/pablo_garcia.jpeg
+    name        : PABLO GARCIA FERNANDEZ
+    designation : Secretary
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/ben_gaffinet.jpeg
+    name        : BENITO EDUARDO GAFFINET
+    designation : Treasurer
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/in/ben-gaffinet-500525b7/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/erik_pillon.jpeg
+    name        : ERIK PILLON
+    designation : Web Master
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/in/erikpillon/
+    instagram   : https://www.instagram.com/
