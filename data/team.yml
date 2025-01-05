@@ -2,12 +2,12 @@ enable  : true
 title   : Team that makes the difference.
 members  :
   - image       : images/team/klara_borrmann.jpeg
-    name        : KLARA BORMAN
+    name        : KLARA BORRMANN
     designation : President
-    medium      : https://www.medium.com/
+    medium      : 
     linkedin    : https://www.linkedin.com/in/klara-florentine-borrmann-88025b193/
     instagram   : https://www.instagram.com/
-
+    
   - image       : images/team/lisa_hefele.jpeg
     name        : LISA HEFELE
     designation : Vice President
