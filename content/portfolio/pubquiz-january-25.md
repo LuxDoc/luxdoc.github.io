@@ -1,10 +1,10 @@
 ---
-title: "LuxDoc goes to play Boardgames"
-date: 2025-01-02T15:00:00+01:00
+title: "PubQuiz 2x04"
+date: 2025-01-05T15:00:00+01:00
 type: portfolio
-image: "images/projects/boardgames.png"
-category: ["LUXDOC EVENT"]
-project_images: ["images/projects/boardgames.png", "images/projects/boardgames.png"]
+image: "images/projects/pubquiz-header.jpg"
+category: ["PUBQUIZ"]
+project_images: ["images/projects/pubquiz.jpeg", "images/projects/pubquiz2.jpg"]
 ---
 
 Dear LuxDoc community,
@@ -17,9 +17,7 @@ In case you want to join the event, please send an email directly to Luxdoc at l
 
 We're looking forward to seeing you there!
 
-📆 Date: Saturday, January 11th \
-🕑 Time: Meeting time is 15:00, the location closes at 18:00. \
-📌 Location: Bei de Minettsdäpp, 8 Rue Berwart, 4043 Esch an der Alzette \
-💵 Price:  Participation is free of charge. Mandatory registration for limited spots. One drink from the bar is free for LuxDoc members. The event remains 
-open to everyone but priority will be given to current members at the time of registration.
-
+📆 Date: Saturday, January 25th \
+🕑 Time: Meeting time is 18:30, pubquiz will start at 19:00. \
+📌 Location:  \
+💵 Price: 
