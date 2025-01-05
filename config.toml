@@ -20,13 +20,9 @@ summarylength = 25
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
-    name    = "Become a Member"
-    url     = "membership"
-    weight  = 4
-  [[menu.nav]]
     name    = "Get in touch"
     url     = "contact"
-    weight  = 5
+    weight  = 4
 
 # Site Params
 [params]
@@ -85,7 +81,7 @@ summarylength = 25
     enable    = true
     title     = "OUR EVENTS"
     subtitle  = "Organizing events and seeking to make the academic community in Luxembourg stronger and more connected."
-    view_project = "view project"
+    view_project = "view event"
     more_works = "MORE EVENTS"
     scroll_down = "scroll down"
 
