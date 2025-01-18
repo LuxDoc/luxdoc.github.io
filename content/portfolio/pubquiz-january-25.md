@@ -7,7 +7,7 @@ category: ["PUBQUIZ"]
 project_images: ["images/projects/pubquiz.jpeg", "images/projects/pubquiz2.jpg"]
 ---
 
-## Pubquiz 2x04: 
+## Pubquiz 2x04: Quizmaster Born Again
 
 Join us for the LuxDoc PubQuiz and try to guess as many answers as possible while competing with your friends!
 
