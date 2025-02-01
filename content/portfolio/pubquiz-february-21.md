@@ -1,6 +1,6 @@
 ---
 title: "PubQuiz 2x05"
-date: 2025-01-05T15:00:00+01:00
+date: 2025-02-01T12:00:00+01:00
 type: portfolio
 image: "images/projects/pubquiz-header.jpg"
 category: ["PUBQUIZ"]
