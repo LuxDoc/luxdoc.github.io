@@ -7,7 +7,7 @@
           {{ .Params.heading | safeHTML }}
         </h1>
       </div>
-      <div class="col-lg-6 ml-auto">
+      <!-- <div class="col-lg-6 ml-auto">
         <div class="site-contact-form">
           <h4>{{ .Params.form_heading }}</h4>
           <form id="contact-form" action="{{ .Site.Params.fabform }}" method="post">
@@ -51,6 +51,72 @@
           </p>
         </div>
       </div>
+      -->
+      <div class="col-lg-6 ml-auto">
+      <h4>Why become a member?</h4>
+      <p>
+        As a LuxDoc member, you support the activities of LuxDoc on all levels, from operating costs to events.
+        Furthermore, you will get some special discounts on our various events.
+        Finally, membership allows you to vote at the general assembly and to join the committee and become active.
+      </p>
+      <p>
+        If you wish to become a member of LuxDoc, please fill in the form below.
+      </p>
+      <p>
+        If you have any questions regarding the membership, please send us an email : <a href="mailto:luxdoc@uni.lu">luxdoc@uni.lu</a>
+      </p>
+      <p>
+        Please pay your registration fee (5 € / year) to
+        <br/>
+        Account holder: LUXDOC a.s.b.l.
+        <br/>
+        IBAN: LU77 0019 3755 2368 0000
+        <br/>
+        SWIFT CODE / BIC: BCEELULL
+      </p>
+      
+      <!-- Modify the form below by accessing with the LuxDoc credentials the following website: https://app.youform.com/dashboard -->
+        <button class="btn btn-secondary" data-youform-open="0dqkcpyd" data-youform-position="center">
+          <span class="btn-area">
+            <span data-text="Register">
+              Register
+            </span>
+          </span>
+        </button>
+        
+        <div>
+          <div>
+            Scan the Pyconiq QR code to process the payment
+          </div>
+
+          <div>
+            <a href="{{ .Site.BaseURL }}">
+              <img style="max-width: 80%; height: auto;" src="{{ .Site.Params.payconiq_img | absURL }}" alt="payconiq-qrcode">
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-8">
+        <br>
+        <h3>Other type of Enquiries?</h3>
+        <br>
+        <p>Have a question, concern, or an idea you'd love to bring to life? We're here to listen! Whether you need clarification, face a challenge, or have a project proposal that aligns with our mission, don’t hesitate to reach out. Together, we can make a difference!</p>
+        <!-- Modify the form below by accessing with the LuxDoc credentials the following website: https://app.youform.com/dashboard -->      
+        <button class="btn btn-secondary" data-youform-open="hpjkm1lr" data-youform-position="center">
+          <span class="btn-area">
+            <span data-text="Open Form">
+              Open Form
+            </span>
+          </span>
+        </button>
+      </div>
+      <br>
+      
+    
+      {{ "<!-- YouForm widget script -->" | safeHTML }}
+      <script src="https://app.youform.com/widgets/widget.js" defer></script>
+    
     </div>
   </div>
 </section>

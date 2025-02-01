@@ -1,6 +1,6 @@
 ---
 title: "LuxDoc goes to play Boardgames"
-date: 2025-01-02T15:00:00+01:00
+date: 2025-02-01T16:00:00+01:00
 type: portfolio
 image: "images/projects/boardgames.png"
 category: ["LUXDOC EVENT"]
