@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-01T16:00:00+01:00</lastmod>
+    <lastmod>2025-04-01T15:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/pubquiz-may-23/</loc>
+    <lastmod>2025-04-01T15:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/pubquiz-april-11/</loc>
+    <lastmod>2025-03-01T15:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/boardgames-march-23/</loc>
     <lastmod>2025-02-01T16:00:00+01:00</lastmod>
