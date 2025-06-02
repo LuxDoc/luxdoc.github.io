@@ -16,7 +16,7 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Past Events"
+    name    = "Portfolio"
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
