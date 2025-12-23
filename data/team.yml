@@ -1,18 +1,11 @@
 enable  : true
 title   : Team that makes the difference.
 members  :
-  - image       : images/team/klara_borrmann.jpeg
-    name        : KLARA BORRMANN
+  - image       : images/team/khushboo_gehi.jpeg
+    name        : KHUSHBOO GEHI
     designation : President
-    medium      : 
-    linkedin    : https://www.linkedin.com/in/klara-florentine-borrmann-88025b193/
-    instagram   : https://www.instagram.com/
-    
-  - image       : images/team/lisa_hefele.jpeg
-    name        : LISA HEFELE
-    designation : Vice President
     medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/in/lisahefele/
+    linkedin    : https://www.linkedin.com/in/linkedin.com/in/khushboo-gehi
     instagram   : https://www.instagram.com/
 
   - image       : images/team/pablo_garcia.jpeg
@@ -22,23 +15,9 @@ members  :
     linkedin    : https://www.linkedin.com/in/pablo-garcía-fernández-b9147b1b2/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/ben_gaffinet.jpeg
-    name        : BENITO EDUARDO GAFFINET
-    designation : Treasurer
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/in/ben-gaffinet-500525b7/
-    instagram   : https://www.instagram.com/
-
   - image       : images/team/erik_pillon.jpeg
     name        : ERIK PILLON
-    designation : Web Master
+    designation : Treasurer
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/in/erikpillon/
-    instagram   : https://www.instagram.com/
-
-  - image       : images/team/camille_fillioux.jpeg
-    name        : CAMILLE MARIE FILLIOUX
-    designation : Social Media Ambassador
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/in/
     instagram   : https://www.instagram.com/
